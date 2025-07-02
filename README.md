@@ -38,8 +38,5 @@ Press `cmd/ctrl + c` to quit the webcam window.
 
 ---
 
-🔧 You can extend this with:
-
-* Face tracking
-* Eye blink detection
-* Gaze estimation
+## Demo
+![face detection demo](./assets/face_detection.JPG)
